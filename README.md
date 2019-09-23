@@ -3,15 +3,41 @@
 This repo is for the following algrotihms converted to rust:
 
 Topics :
-1. Graph
+1. Sorting And Searching
 2. Linked List
-3. Dynamic Programming
-4. Sorting And Searching
+3. Graph
+4. Dynamic Programming
 5. Tree / Binary Search Tree
 6. Number Theory
 7. BIT Manipulation
 8. String / Array
 
+
+Sorting And Searching
+
+1. Binary Search (Complete)
+2. Search an element in a sorted and rotated array
+3. Bubble Sort
+4. Insertion Sort
+5. Merge Sort
+6. Heap Sort (Binary Heap)
+7. Quick Sort
+8. Interpolation Search
+9. Find Kth Smallest/Largest Element In Unsorted Array
+10. Given a sorted array and a number x, find the pair in array whose sum is closest to x
+
+Linked List
+
+1. Insertion of a node in Linked List (On the basis of some constraints)
+2. Delete a given node in Linked List (under given constraints)
+3. Compare two strings represented as linked lists
+4. Add Two Numbers Represented By Linked Lists
+5. Merge A Linked List Into Another Linked List At Alternate Positions
+6. Reverse A List In Groups Of Given Size
+7. Union And Intersection Of 2 Linked Lists
+8. Detect And Remove Loop In A Linked List
+9. Merge Sort For Linked Lists
+10. Select A Random Node from A Singly Linked List
 
 Graph
 
@@ -27,20 +53,6 @@ Graph
 10. Bridges in a Graph
 
 
-Linked List
-
-1. Insertion of a node in Linked List (On the basis of some constraints)
-2. Delete a given node in Linked List (under given constraints)
-3. Compare two strings represented as linked lists
-4. Add Two Numbers Represented By Linked Lists
-5. Merge A Linked List Into Another Linked List At Alternate Positions
-6. Reverse A List In Groups Of Given Size
-7. Union And Intersection Of 2 Linked Lists
-8. Detect And Remove Loop In A Linked List
-9. Merge Sort For Linked Lists
-10. Select A Random Node from A Singly Linked List
-
-
 Dynamic Programming
 
 1. Longest Common Subsequence
@@ -53,20 +65,6 @@ Dynamic Programming
 8. Optimal Strategy for a Game
 9. 0-1 Knapsack Problem
 10. Boolean Parenthesization Problem
-
-
-Sorting And Searching
-
-1. Binary Search
-2. Search an element in a sorted and rotated array
-3. Bubble Sort
-4. Insertion Sort
-5. Merge Sort
-6. Heap Sort (Binary Heap)
-7. Quick Sort
-8. Interpolation Search
-9. Find Kth Smallest/Largest Element In Unsorted Array
-10. Given a sorted array and a number x, find the pair in array whose sum is closest to x
 
 
 Tree / Binary Search Tree
