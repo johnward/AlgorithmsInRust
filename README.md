@@ -1,8 +1,9 @@
-# algorithms_in_rust
+# Algorithms and Patterns in Rust
 
 This repo is for the following algrotihms converted to rust:
 
 Topics :
+
 1. Sorting And Searching
 2. Linked List
 3. Graph
@@ -11,7 +12,6 @@ Topics :
 6. Number Theory
 7. BIT Manipulation
 8. String / Array
-
 
 Sorting And Searching
 
@@ -52,7 +52,6 @@ Graph
 9. Boggle (Find all possible words in a board of characters)
 10. Bridges in a Graph
 
-
 Dynamic Programming
 
 1. Longest Common Subsequence
@@ -65,7 +64,6 @@ Dynamic Programming
 8. Optimal Strategy for a Game
 9. 0-1 Knapsack Problem
 10. Boolean Parenthesization Problem
-
 
 Tree / Binary Search Tree
 
@@ -80,7 +78,6 @@ Tree / Binary Search Tree
 9. Check if a binary tree is subtree of another binary tree
 10. Reverse alternate levels of a perfect binary tree
 
-
 Number Theory
 
 1. Modular Exponentiation
@@ -94,7 +91,6 @@ Number Theory
 9. Chinese remainder theorem
 10. Lucas Theorem
 
-
 BIT Manipulation
 
 1. Maximum Subarray XOR
@@ -107,7 +103,6 @@ BIT Manipulation
 8. Rotate bits of a number
 9. Count number of bits to be flipped to convert A to B
 10. Find Next Sparse Number
-
 
 String / Array
 
